@@ -1,6 +1,6 @@
 # Portfolio – Aiman Haddani
 
-Étudiant en **BTS SIO option SISR**, passionné par l'administration systèmes et réseaux.
+Étudiant en **BTS SIO option SISR**, passionné par l'informatique.
 
 ---
 
