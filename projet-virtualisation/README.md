@@ -1,10 +1,10 @@
 # Projet Virtualisation
 
-Projet réalisé dans le cadre de ma formation en BTS SIO option SISR.
+![Virtualisation](https://img.shields.io/badge/Virtualisation-VirtualBox-orange)
+![VM](https://img.shields.io/badge/Machines%20Virtuelles-Test-blue)
 
 ## Objectif
-
-Créer et configurer des machines virtuelles afin de tester différents systèmes d'exploitation et configurations réseau.
+Créer un environnement de test avec plusieurs machines virtuelles.
 
 ## Environnement
 
@@ -15,11 +15,10 @@ Créer et configurer des machines virtuelles afin de tester différents système
 ## Étapes réalisées
 
 1. Installation du logiciel de virtualisation
-2. Création d'une machine virtuelle
-3. Installation d'un système d'exploitation
-4. Configuration du réseau de la machine virtuelle
-5. Test de communication entre machines
+2. Création de machines virtuelles
+3. Installation des systèmes d'exploitation
+4. Configuration du réseau entre les machines
 
 ## Résultat
 
-Les machines virtuelles fonctionnent correctement et permettent de simuler un environnement réseau pour réaliser différents tests.
+Les machines virtuelles permettent de tester différentes configurations réseau et système.
