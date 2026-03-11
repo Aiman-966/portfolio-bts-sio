@@ -1,16 +1,29 @@
-# Installation d'un serveur Linux
+# Projet Linux
 
-Projet réalisé dans le cadre de ma formation BTS SIO.
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-orange)
+![Administration](https://img.shields.io/badge/Admin-System-green)
 
 ## Objectif
-Installer un serveur Linux et configurer l'accès SSH.
+Installer et configurer un serveur Linux afin de découvrir l'administration système.
 
-## Étapes
+## Environnement
 
-1. Installation Ubuntu Server
-2. Configuration réseau
-3. Création d'utilisateurs
-4. Activation SSH
+- Ubuntu Server
+- Machine virtuelle
+
+## Étapes réalisées
+
+1. Installation d'Ubuntu Server
+2. Configuration du réseau
+3. Mise à jour du système
+4. Création d'utilisateurs
+
+## Commandes utilisées
+
+sudo apt update  
+sudo apt upgrade  
+sudo adduser utilisateur  
 
 ## Résultat
-Le serveur est accessible à distance et permet la gestion des utilisateurs.
+
+Le serveur Linux fonctionne correctement et permet la gestion des utilisateurs.
