@@ -1,34 +1,46 @@
 # Portfolio – Aiman Haddani
 
-Étudiant en **BTS SIO option SISR**, je m'intéresse à l'administration systèmes et réseaux.  
-Ce portfolio présente plusieurs projets réalisés durant ma formation afin de développer mes compétences en systèmes, réseaux et virtualisation.
+Étudiant en **BTS SIO option SISR**, passionné par l'administration systèmes et réseaux.
 
 ---
 
 ## Compétences
 
-- Administration Linux
-- Windows Server
-- Active Directory
-- Virtualisation (VirtualBox / VMware)
-- Réseau (DHCP, DNS, configuration IP)
-- Notions de Python
+![Linux](https://img.shields.io/badge/Linux-Administration-informational)
+![Windows](https://img.shields.io/badge/Windows-Server-blue)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-Administration-green)
+![Virtualisation](https://img.shields.io/badge/Virtualisation-VirtualBox-orange)
+![Réseau](https://img.shields.io/badge/Réseau-DHCP%20%7C%20DNS-red)
 
 ---
 
 ## Projets
 
-### Projet Linux
+### 🔹 Projet Linux
 Installation et configuration d'un serveur Ubuntu dans une machine virtuelle.
 
-### Projet Active Directory
-Mise en place d'un contrôleur de domaine avec gestion des utilisateurs et des groupes.
+📂 Voir le projet : projet-linux
 
-### Projet Virtualisation
+---
+
+### 🔹 Projet Active Directory
+Mise en place d'un contrôleur de domaine et gestion des utilisateurs.
+
+📂 Voir le projet : projet-active-directory
+
+---
+
+### 🔹 Projet Virtualisation
 Création et configuration de machines virtuelles pour simuler un environnement réseau.
 
-### Projet Réseau (DHCP et DNS)
+📂 Voir le projet : projet-virtualisation
+
+---
+
+### 🔹 Projet Réseau (DHCP et DNS)
 Configuration d'un réseau simple avec attribution automatique des adresses IP et résolution de noms.
+
+📂 Voir le projet : projet-reseau
 
 ---
 
