@@ -1,29 +1,23 @@
 # Projet Active Directory
 
-Projet réalisé dans le cadre de ma formation en BTS SIO option SISR.
+![Windows Server](https://img.shields.io/badge/Windows-Server-blue)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-Domain-green)
 
 ## Objectif
-
-Mettre en place un contrôleur de domaine avec Active Directory afin de gérer des utilisateurs et des groupes dans un réseau d'entreprise.
+Mettre en place un contrôleur de domaine pour gérer les utilisateurs dans un réseau.
 
 ## Environnement
 
 - Windows Server
-- Machine virtuelle (VirtualBox / VMware)
+- Machine virtuelle
 
 ## Étapes réalisées
 
 1. Installation de Windows Server
 2. Installation du rôle Active Directory Domain Services
 3. Création d'un domaine
-4. Création d'utilisateurs
-5. Création de groupes
-
-## Exemple d'utilisateurs créés
-
-- utilisateur1
-- utilisateur2
+4. Création d'utilisateurs et de groupes
 
 ## Résultat
 
-Le domaine est opérationnel et permet la gestion centralisée des utilisateurs et des ressources du réseau.
+Le domaine permet la gestion centralisée des utilisateurs et des ressources du réseau.
