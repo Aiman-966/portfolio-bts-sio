@@ -1,8 +1,7 @@
 # Portfolio – Aiman Haddani
 
-Étudiant en BTS SIO option SISR, je m'intéresse à l'administration systèmes et réseaux.
-
-Je développe mes compétences en Linux, Windows Server, virtualisation et réseaux à travers différents projets.
+Étudiant en **BTS SIO option SISR**, je m'intéresse à l'administration systèmes et réseaux.  
+Ce portfolio présente plusieurs projets réalisés durant ma formation afin de développer mes compétences en systèmes, réseaux et virtualisation.
 
 ---
 
@@ -11,28 +10,28 @@ Je développe mes compétences en Linux, Windows Server, virtualisation et rése
 - Administration Linux
 - Windows Server
 - Active Directory
-- Réseau (DHCP, DNS)
 - Virtualisation (VirtualBox / VMware)
+- Réseau (DHCP, DNS, configuration IP)
 - Notions de Python
 
 ---
 
 ## Projets
 
-### Installation d'un serveur Linux
-Installation d'une machine virtuelle Ubuntu.
-Configuration SSH et création d'utilisateurs.
+### Projet Linux
+Installation et configuration d'un serveur Ubuntu dans une machine virtuelle.
 
-### Mise en place d'un Active Directory
-Installation de Windows Server.
-Création d'un domaine et gestion des utilisateurs.
+### Projet Active Directory
+Mise en place d'un contrôleur de domaine avec gestion des utilisateurs et des groupes.
 
-### Configuration d'un réseau
-Configuration d'un réseau simple avec DHCP et DNS.
-Test de connectivité entre machines.
+### Projet Virtualisation
+Création et configuration de machines virtuelles pour simuler un environnement réseau.
+
+### Projet Réseau (DHCP et DNS)
+Configuration d'un réseau simple avec attribution automatique des adresses IP et résolution de noms.
 
 ---
 
 ## Objectif professionnel
 
-Actuellement à la recherche d'une alternance dans l'administration systèmes et réseaux afin de développer mes compétences en environnement professionnel.
+Actuellement à la recherche d'une **alternance en administration systèmes et réseaux** afin de développer mes compétences dans un environnement professionnel.
